@@ -8,6 +8,12 @@ app.set("view engine", "ejs");
 var sites = [
         {name: "Snowy", image:"https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg"},
         {name: "Dody", image:"https://cdn1.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg"},
+        {name: "Boris", image:"http://santansun.com/wp-content/uploads/2018/11/5b7fdeab1900001d035028dc.jpeg"},
+        {name: "Snowy", image:"https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg"},
+        {name: "Dody", image:"https://cdn1.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg"},
+        {name: "Boris", image:"http://santansun.com/wp-content/uploads/2018/11/5b7fdeab1900001d035028dc.jpeg"},
+        {name: "Snowy", image:"https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg"},
+        {name: "Dody", image:"https://cdn1.medicalnewstoday.com/content/images/articles/322/322868/golden-retriever-puppy.jpg"},
         {name: "Boris", image:"http://santansun.com/wp-content/uploads/2018/11/5b7fdeab1900001d035028dc.jpeg"}
         ];
 
